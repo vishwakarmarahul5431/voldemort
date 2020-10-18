@@ -9,3 +9,5 @@ deps
 .pydevproject
 .project
 *.swp
+ eh
+ Decorator
